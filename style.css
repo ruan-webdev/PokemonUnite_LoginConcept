@@ -20,7 +20,7 @@
     --black: #000000;
     --blue: #1B77F3;
     --red: #CF3C3F;
-    --purple: #6523b6;
+    --purple: #b580f5;
 }
 
 main {
@@ -43,7 +43,7 @@ main {
 
     /*funcao para calculo de medida ( valor min, valor pref, valor max)*/
     padding: clamp(35px, 8%, 70px);
-
+    background-color: var(--whitesmoke);
 
 }
 
